@@ -1,4 +1,4 @@
-(defproject clojure-utils "1.0.0"
+(defproject clojure-utils "0.1.0-SNAPSHOT"
   :description "Collection of clojure util functions"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
